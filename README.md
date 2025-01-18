@@ -1,1 +1,2 @@
 # challenges
+This repo contains challenges that I've created for various events, topics or teaching opportunities. Each will have a `README` that describes the challenge gives install steps, and a `WRITEUP`. Some longer challenges might also have `REPORT` which is a more formal Penetration Test style report. 
