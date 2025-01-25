@@ -6,3 +6,5 @@ This repo contains challenges that I've created for various events, topics or te
 Practice introductory Fuzzing Techniques against a dockized application. 
 #### [MI6configuration](MI6configuration/README.md)
 Practice Penetration Testing skills against a machine with common misconfigurations. 
+#### [Breaking Windows](Breaking_Windows/README.md)
+Breaking Windows is an introductory Windows challenge focused on enumeration.
