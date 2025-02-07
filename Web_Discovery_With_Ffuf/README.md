@@ -1,5 +1,5 @@
 ## Web Discovery With Ffuf
-Practice introductory Fuzzing Techniques against a dockized application. 
+Practice introductory Fuzzing Techniques against a dockerized application. 
 
 For this challenge, you are tasked with discovering five flags on the docker web site using `ffuf`. The flags are in the following format: `ffuf{<TEXT>}`.
 
