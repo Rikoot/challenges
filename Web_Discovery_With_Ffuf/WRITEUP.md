@@ -6,7 +6,7 @@ I chose to split the five flags between the topics that are meant to be taught/t
 #### Directory Fuzzing
 Using `ffuf`, we can brute force directories for a page that, once opened, contains a flag. 
 ```bash
-ffuf -ic -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://localhost:8080/FUZZ   
+ffuf -ic -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://localhost:8080/FUZZ -fc 500
 ```
 #### Extension Fuzzing
 Using `ffuf`, we can brute force file extensions to discover other pages present on the machine that give more information into the backend of this machine.  
