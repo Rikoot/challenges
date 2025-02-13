@@ -3,7 +3,7 @@ This repo contains challenges that I've created for various events, topics or te
 
 
 #### [Web Discovery With Ffuf](Web_Discovery_With_Ffuf/README.md)
-Practice introductory Fuzzing Techniques against a dockized application. 
+Practice introductory Fuzzing Techniques against a dockerized application. 
 #### [MI6configuration](MI6configuration/README.md)
 Practice Penetration Testing skills against a machine with common misconfigurations. 
 #### [Breaking Windows](Breaking_Windows/README.md)
